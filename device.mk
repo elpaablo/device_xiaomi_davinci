@@ -88,7 +88,8 @@ PRODUCT_PACKAGES += \
     DavinciCNSettingsProviderOverlay \
     DavinciCNWifiOverlay \
     DavinciINSettingsProviderOverlay \
-    DavinciINWifiOverlay
+    DavinciINWifiOverlay \
+    FrameOverlayEB
 
 # Power
 PRODUCT_COPY_FILES += \
